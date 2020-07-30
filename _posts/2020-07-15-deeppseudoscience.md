@@ -2,7 +2,7 @@
 layout: post
 title: "The faulty science, doomism, and flawed conclusions of Deep Adaptation"
 tags: ['climate', 'science', 'misinformation', 'justice']
-date:   2020-04-22
+date:   2020-07-14
 excerpt: "The claim that runaway climate change has made societal collapse inevitable is not only wrong – it undermines the cause of the climate movement."
 image: "/images/no-planet-b.jpg"
 ---
@@ -16,10 +16,11 @@ There is also a much shorter summary version [published in The Ecologist](https:
 It got considerable [traction on twitter](https://twitter.com/TEGNicholas/status/1283074865809981440).
 
 A huge number of people contributed to this piece in some form or another, not just those listed.
-I'm very grateful to all of them, but especially to Galen and Colleen for writing all the best parts.
+I'm very grateful to all of them, but especially to Galen and Colleen.
 
 Jem Bendell wrote [a response here](https://jembendell.com/2020/07/15/letter-to-deep-adaptation-advocate-volunteers-about-misrepresentations-of-the-agenda-and-movement/), addressed to members of the Deep Adaptation movement.
-I do not currently have plans to respond, mainly because I feel that this piece below already says most of what I have to say on the topic.
+He also updated the original Deep Adaptation paper in response to this article.
+The original to which this article responds can be found on this site [here](../../documents/deepadaptation_dec2018.pdf), whilst the updated version is [here](https://www.lifeworth.com/deepadaptation.pdf).
 
 ---
 
