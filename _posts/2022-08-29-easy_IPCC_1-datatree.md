@@ -2,7 +2,7 @@
 layout: post
 title: "Easy IPCC part 1: Multi-Model Datatree"
 tags: ['code', 'python', 'xarray', 'climate-science', 'open-science']
-date:   2022-07-29
+date:   2022-08-29
 excerpt: "Handling heterogenous climate model data with xarray-datatree"
 image: "/images/IPCC_AR6_fig9.3a.png"
 ---
