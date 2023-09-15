@@ -4,7 +4,7 @@ title: "Cubed: Bounded-memory serverless array processing in xarray"
 tags: ['code', 'python', 'xarray', 'dask', 'open-science']
 date:   2023-06-01
 excerpt: "Xarray can now wrap different parallel computation backends, including Cubed"
-image: "/images/subed-ops.svg"
+image: "/images/cubed-ops.svg"
 ---
 
 _TLDR: Xarray can now wrap a range of parallel computation backends, including [Cubed](https://github.com/tomwhite/cubed), a distributed serverless framework designed to limit memory usage.
