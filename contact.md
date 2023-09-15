@@ -14,4 +14,4 @@ If you've enjoyed anything you've read here, or have any questions, then please 
 
 You can [email me](mailto:{{site.email}}), message me on [twitter](https://twitter.com/TEGNicholas), or tag me on [github](https://github.com/TomNicholas).
 
-Or even better: if you're passing through Oxford and you fancy an in-person chat then email me and we can have coffee :coffee:
+Or even better: if you're passing through New York and you fancy an in-person chat then reach out and we can have coffee :coffee:
