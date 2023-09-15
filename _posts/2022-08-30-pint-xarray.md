@@ -2,7 +2,7 @@
 layout: post
 title: "Unit-aware arithmetic in Xarray, via pint"
 tags: ['code', 'python', 'xarray', 'open-science', 'physical-units']
-date:   2022-08-29
+date:   2022-08-30
 excerpt: "Xarray now supports unit-aware operations by wrapping pint arrays"
 image: "https://pint.readthedocs.io/en/stable/_images/logo-full.jpg"
 ---
