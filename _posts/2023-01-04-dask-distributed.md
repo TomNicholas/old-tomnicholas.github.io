@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Dask.distributed and Pangeo: Better performance for everyone thanks to science / software collaboration"
+title: "Dask.distributed and Pangeo: Better performance for everyone thanks to science / software collaboration"
 tags: ['dask', 'software-dev', 'python', 'xarray', 'climate-science', 'open-science']
 date:   2023-01-04
 excerpt: "A major fix to dask.distributed's scheduling algorithm"
