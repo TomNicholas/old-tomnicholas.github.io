@@ -23,3 +23,5 @@ Before that I did a PhD in computational plasma physics for nuclear fusion, base
 To help make scientist's work easier, I contribute to the open-source scientific software ecosystem, in particular to the [Xarray library](https://github.com/pydata/xarray) and various other projects within the [Pangeo](https://github.com/pangeo-data) sphere.
 
 I'm generally very worried about the implications of humanity's ongoing destruction and pollution of the biosphere, and feel that we all have a responsibility to help put out this fire.
+
+You can reach me at tom at cworthy dot org
