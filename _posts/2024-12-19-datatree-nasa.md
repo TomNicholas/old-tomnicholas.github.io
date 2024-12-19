@@ -6,6 +6,8 @@ date: 2024-12-19
 excerpt: "The new xarray.DataTree class allows working with netCDF/Zarr groups, brought to you in collaboration with NASA!"
 ---
 
+(Originally posted on the [Xarray blog](https://xarray.dev/blog/datatree).)
+
 ## tl;dr
 
 [`xarray.DataTree`](https://docs.xarray.dev/en/stable/user-guide/data-structures.html#datatree) has been [released](https://github.com/pydata/xarray/discussions/9680) in [v2024.10.0](https://github.com/pydata/xarray/releases/tag/v2024.10.0), and the prototype [`xarray-contrib/datatree` repository](https://github.com/xarray-contrib/datatree) archived, after collaboration between the xarray team and the [NASA ESDIS project](https://www.earthdata.nasa.gov/about/esdis). 🤝
